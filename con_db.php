@@ -1,6 +1,6 @@
 <?php
 
-$conex = mysql_connect("localhost","root","","registro");
+$conex = mysqli_connect("localhost","root","","registro");
 
 ?>
 
